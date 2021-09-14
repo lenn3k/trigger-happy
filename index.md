@@ -6,71 +6,71 @@
 
 #### Drenthe
 
-Copperhead Tactical
-Assen / Drenthe
-Outdoor
-https://copperheadtactical.eu/
+> Copperhead Tactical
+> Assen / Drenthe
+> Outdoor
+> https://copperheadtactical.eu/
 
 #### Flevoland
 
-Balls & Arrows
-Lelystad
-Outdoor
-https://ballsandarrows.nl/
+> Balls & Arrows
+> Lelystad
+> Outdoor
+> https://ballsandarrows.nl/
 
 #### Friesland
 
 #### Gelderland
 
-Blackout Airsoft
-Didam
-Indoor / Outdoor / CQB
-https://blackoutairsoft.com/
+> Blackout Airsoft
+> Didam
+> Indoor / Outdoor / CQB
+> https://blackoutairsoft.com/
 
-Critical Hit Outdoor
-Alburg
-Outdoor
-https://critical-hit.eu/
+> Critical Hit Outdoor
+> Alburg
+> Outdoor
+> https://critical-hit.eu/
 
-Veluwe Airsoft
-Hulshorst
-Outdoor
-https://veluweairsoft.nl/
+> Veluwe Airsoft
+> Hulshorst
+> Outdoor
+> https://veluweairsoft.nl/
 
 #### Groningen
 
 #### Limburg
 
-AREA077
-Venlo
-Indoor / CQB / small outdoor
-https://area077.nl/
+> AREA077
+> Venlo
+> Indoor / CQB / small outdoor
+> https://area077.nl/
 
 #### Noord-Brabant
 
-ATCX Veldhoven
-Veldhoven
-Outdoor
-https://atcx.info/open-events-veldhoven/
+> ATCX Veldhoven
+> Veldhoven
+> Outdoor
+> https://atcx.info/open-events-veldhoven/
 
 #### Noord-Holland
 
-RSL Airsoft
-Assendelft
-Outdoor
-https://www.rslairsoft.nl/
+> RSL Airsoft
+> Assendelft
+> Outdoor
+> https://www.rslairsoft.nl/
 
 #### Overijssel
 
-3Division
-Daarle / Overijssel
-Outdoor / Tacsim
-https://3division.eu/
+> 3Division
+> Daarle / Overijssel
+> Outdoor / Tacsim
+> https://3division.eu/
 
-Airsoft Warriors
-Oldenzaal / Overijssel
-Outdoor / CQB
-https://airsoftwarriors.nl/
+> Airsoft Warriors
+> Oldenzaal / Overijssel
+> Outdoor / CQB
+> https://airsoftwarriors.nl/
 
 #### Utrecht
 
@@ -78,45 +78,45 @@ https://airsoftwarriors.nl/
 
 #### Zuid-Holland
 
-Airsoft Delft
-Delft
-Outdoor
-https://www.outdoor-delft.nl/airsoftdelft
+> Airsoft Delft
+> Delft
+> Outdoor
+> https://www.outdoor-delft.nl/airsoftdelft
 
 ### België
 
 #### Antwerpen
 
-Fort Knox
-Koningshooikt
-Outdoor/Indoor
-http://www.crimi-events.com/
+> Fort Knox
+> Koningshooikt
+> Outdoor/Indoor
+> http://www.crimi-events.com/
 
-Nuketown XL
-Westmalle
-Indoor
-http://www.crimi-events.com/
+> Nuketown XL
+> Westmalle
+> Indoor
+> http://www.crimi-events.com/
 
 #### Henegouwen
 
 #### Limburg
 
-ASL
-Peer
-Indoor
-https://www.airsoftlimburg.be
+> ASL
+> Peer
+> Indoor
+> https://www.airsoftlimburg.be
 
 #### Luik
 
-Fort de Barchon
-Barchon
-Outdoor
-https://www.airsoften.be
+> Fort de Barchon
+> Barchon
+> Outdoor
+> https://www.airsoften.be
 
-The Chambers
-Hoei (Tihange)
-Outdoor
-http://www.crimi-events.com/
+> The Chambers
+> Hoei (Tihange)
+> Outdoor
+> http://www.crimi-events.com/
 
 #### Luxemburg
 
