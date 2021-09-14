@@ -1,6 +1,6 @@
 ## Trigger Happy - Airsoft Locations
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1O5zLxtETu6gk1xVjNNkCIHg4fDYUnuno" width="640" height="480"</iframe
+<iframe src="https://www.google.com/maps/d/embed?mid=1O5zLxtETu6gk1xVjNNkCIHg4fDYUnuno" width="640" height="480"></iframe>
 
 ### Nederland
 
