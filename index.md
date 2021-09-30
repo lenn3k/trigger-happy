@@ -6,70 +6,78 @@
 
 #### Drenthe
 
-Copperhead Tactical  
- Assen / Drenthe  
- Outdoor  
+Copperhead Tactical\
+ Assen / Drenthe\
+ Outdoor\
  https://copperheadtactical.eu/
 
 #### Flevoland
 
-Balls & Arrows  
- Lelystad  
- Outdoor  
+Balls & Arrows\
+ Lelystad\
+ Outdoor\
  https://ballsandarrows.nl/
+
+Balls & Arrows Emmeloord\
+ Emmeloord\
+ Outdoor\
+ https://ballsandarrowsemmeloord.nl/\
+ AR/DMR/Sniper\
+ TDM/CTF/Rush\
+ Capaciteit: 150\
 
 #### Friesland
 
 #### Gelderland
 
-Blackout Airsoft  
- Didam  
- Indoor / Outdoor / CQB  
+Blackout Airsoft\
+ Didam\
+ Indoor / Outdoor / CQB\
  https://blackoutairsoft.com/
 
-Critical Hit Outdoor  
- Alburg  
- Outdoor  
+Critical Hit Outdoor\
+ Alburg\
+ Outdoor\
  https://critical-hit.eu/
 
-Veluwe Airsoft  
- Hulshorst  
- Outdoor  
+Veluwe Airsoft\
+ Hulshorst\
+ Outdoor\
  https://veluweairsoft.nl/
 
 #### Groningen
 
 #### Limburg
 
-AREA077  
- Venlo  
- Indoor / CQB / small outdoor  
+AREA077\
+ Venlo\
+ Indoor / CQB / small outdoor\
  https://area077.nl/
 
 #### Noord-Brabant
 
-ATCX Veldhoven  
- Veldhoven  
- Outdoor  
+ATCX Veldhoven\
+ Veldhoven\
+ Outdoor\
  https://atcx.info/open-events-veldhoven/
 
 #### Noord-Holland
 
-RSL Airsoft  
- Assendelft  
- Outdoor  
+RSL Airsoft\
+ Assendelft\
+ Outdoor\
  https://www.rslairsoft.nl/
 
 #### Overijssel
 
-3Division  
- Daarle / Overijssel  
- Outdoor / Tacsim  
+3Division\
+ Daarle / Overijssel\
+ Outdoor / Tacsim\
  https://3division.eu/
 
-Airsoft Warriors  
- Oldenzaal / Overijssel  
- Outdoor / CQB  
+Airsoft Warriors\
+ Oldenzaal / Overijssel\
+ Outdoor / CQB\
  https://airsoftwarriors.nl/
 
 #### Utrecht
@@ -78,44 +86,44 @@ Airsoft Warriors
 
 #### Zuid-Holland
 
-Airsoft Delft  
- Delft  
- Outdoor  
+Airsoft Delft\
+ Delft\
+ Outdoor\
  https://www.outdoor-delft.nl/airsoftdelft
 
 ### België
 
 #### Antwerpen
 
-Fort Knox  
- Koningshooikt  
- Outdoor/Indoor  
+Fort Knox\
+ Koningshooikt\
+ Outdoor/Indoor\
  http://www.crimi-events.com/
 
-Nuketown XL  
- Westmalle  
- Indoor  
+Nuketown XL\
+ Westmalle\
+ Indoor\
  http://www.crimi-events.com/
 
 #### Henegouwen
 
 #### Limburg
 
-ASL  
- Peer  
- Indoor  
+Airsoft Limburg\
+ Peer\
+ Indoor\
  https://www.airsoftlimburg.be
 
 #### Luik
 
-Fort de Barchon  
- Barchon  
- Outdoor  
+Fort de Barchon\
+ Barchon\
+ Outdoor\
  https://www.airsoften.be
 
-The Chambers  
- Hoei (Tihange)  
- Outdoor  
+The Chambers\
+ Hoei (Tihange)\
+ Outdoor\
  http://www.crimi-events.com/
 
 #### Luxemburg
